@@ -102,6 +102,13 @@ Financial-Market-Risk-Analysis/
 - KPI Cards — Avg Volatility, Avg Return, Total Stocks
 
 ---
+## 📸 Dashboard Preview
+<img width="1306" height="733" alt="image" src="https://github.com/user-attachments/assets/b2ad502c-eebb-4516-b037-5390fa32dfa4" />
+<img width="1075" height="457" alt="image" src="https://github.com/user-attachments/assets/268eebc5-f97a-4419-82c3-fbf4f70b2a0f" />
+<img width="210" height="342" alt="image" src="https://github.com/user-attachments/assets/79ec4a79-e2cd-4006-b2e4-7028c0505792" />
+
+
+
 
 ## 🚀 How to Run
 
